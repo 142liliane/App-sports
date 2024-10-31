@@ -32,7 +32,7 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário insere: para o usuário inserir a quantidade de passos dados, marcar/escolher o tamanho médio do passo, que influencia no cálculo da distância (ex: curto = 0,5m, médio = 0,7m, longo = 1m) e marcar se estava correndo (se não estava, não marque).
 >  e o app calcula e exibe a estimativa da distância percorrida com base na quantidade de passos.
 
